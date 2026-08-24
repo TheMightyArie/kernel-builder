@@ -24,7 +24,7 @@ jobs:
           ksu: true
           ksu-version: main
           android-version: 16
-          aosp-clang-version: r383902
           disable-lto: true
           lxc: true
           lxc-patch: true
+          kvm: true
