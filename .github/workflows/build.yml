@@ -26,7 +26,6 @@ jobs:
           other-gcc64-branch: main
           ksu: true
           ksu-version: v0.9.5
-          android-version: 16
           disable-lto: true
           lxc: true
           lxc-patch: true
