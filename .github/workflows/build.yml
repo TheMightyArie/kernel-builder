@@ -22,6 +22,8 @@ jobs:
           aosp-gcc: true
           aosp-clang: true
           aosp-clang-version: r547379
+          other-gcc32-branch: main
+          other-gcc64-branch: main
           ksu: true
           ksu-version: v0.9.5
           android-version: 16
